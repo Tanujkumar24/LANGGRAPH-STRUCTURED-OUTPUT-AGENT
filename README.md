@@ -31,8 +31,8 @@ Before running the code, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/structured-output-agent.git
-   cd structured-output-agent
+   git clone https://github.com/Tanujkumar24/LANGGRAPH-STRUCTURED-OUTPUT-AGENT.git
+   cd LANGGRAPH-STRUCTURED-OUTPUT-AGENT
    ```
 
 2. **Install Dependencies**:
@@ -179,7 +179,7 @@ The agent will fetch real-time data and output it in a structured format.
 ## Workflow Diagram
 After running the visualization code, a **workflow_graph.png** file will be generated. Here's the structure:
 
-![Workflow Diagram](workflow_graph.png)
+![Workflow Diagram](https://github.com/Tanujkumar24/LANGGRAPH-STRUCTURED-OUTPUT-AGENT/blob/main/graph.jpg)
 
 ---
 
