@@ -197,4 +197,4 @@ This project is licensed under the MIT License.
 For any queries or suggestions, please reach out to:
 - **Name**: Mangalapally Tanujkumar
 - **Email**: tanuj.mangalapally@gmail.com
-- **Portfolio**: [Your Portfolio](https://tanujkumar24.github.io/Tanujkumar-portfolio/)
+- **Portfolio**: [tanujkumar portfolio](https://tanujkumar24.github.io/Tanujkumar-portfolio/)
