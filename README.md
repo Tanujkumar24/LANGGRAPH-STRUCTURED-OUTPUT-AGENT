@@ -195,6 +195,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any queries or suggestions, please reach out to:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio](https://example.com)
+- **Name**: Mangalapally Tanujkumar
+- **Email**: tanuj.mangalapally@gmail.com
+- **Portfolio**: [Your Portfolio](https://tanujkumar24.github.io/Tanujkumar-portfolio/)
